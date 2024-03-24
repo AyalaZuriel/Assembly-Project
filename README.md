@@ -2,8 +2,8 @@
 This assembler program translates instructions into binary machine code and then into unique binary code.
 
 ## Authors:
-Ayala Zuriel 325606861
-Chana Fuxbrumer 325030484
+Ayala Zuriel
+Chana Fuxbrumer
 
 ## General Info
 Final project of the course 'Systems programming laboratory' in The Open University of Israel.
